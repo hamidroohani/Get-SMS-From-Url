@@ -1,5 +1,5 @@
 {
-    "name": "hamidroohani/two-factor-auth",
+    "name": "hamidroohani/get-SMS-from-url",
     "description": "Powerful otp login for the Laravel framework.",
     "keywords": [
         "laravel"
